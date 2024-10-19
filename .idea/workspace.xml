@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db4ecf7e-a1d2-4561-91ac-8464fd0bbbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codecademy-code-samples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function arguments - 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function arguments - 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function arguments - 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function arguments - 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +28,7 @@
   "keyToString": {
     "Python.function arguments - 4.executor": "Run",
     "Python.function arguments - 5.executor": "Run",
+    "Python.function arguments - the nile project.executor": "Run",
     "Python.scratch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
